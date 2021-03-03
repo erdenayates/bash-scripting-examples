@@ -1,0 +1,119 @@
+cat case2.sh      
+clear       
+nano case2.sh      
+./case2.sh       
+nano case2.sh      
+./case2.sh       
+cat case2.sh      
+nano case2.sh      
+./case2.sh       
+nano case2.sh      
+clear       
+./case2.sh       
+nano case2.sh      
+./case2.sh       
+nano case2.sh      
+./case2.sh       
+nano case2.sh      
+./case2.sh       
+nano case2.sh      
+./case2.sh       
+nano case2.sh      
+./case2.sh       
+nano case2.sh      
+./case2.sh       
+nano case2.sh      
+./case2.sh       
+clear       
+ls       
+clear       
+./case2.sh       
+clear       
+cd Desktop/      
+cd scripting101/      
+ls       
+date       
+cal       
+su root
+clear       
+touch if.sh      
+chmod +x if.sh     
+./if.sh       
+cp if.sh if2.sh     
+./if2.sh pwd      
+pvd       
+cp while.sh while2.sh     
+./while2.sh       
+sudo ./while2.sh      
+./while2.sh       
+clear       
+rm -rf while2.sh     
+cp while.sh while2.sh     
+./while2.sh       
+useradd $username || err_function    
+./while2.sh       
+clear       
+./while2.sh       
+sudo ./while2.sh      
+cp while.sh file_viewing.sh     
+./file_viewing.sh       
+su root
+clear       
+./file_viewing.sh       
+clear       
+./file_viewing.sh       
+clear       
+./file_viewing.sh       
+clear       
+ls       
+touch students.txt      
+nano students.txt      
+cat students.txt | awk -F '.' '{print $6}'
+cat students.txt | awk -F ',' '{print $6}'
+deluser root
+cat students.txt | awk '{print $1}'  
+awk '{print}' students.txt     
+touch awk      
+nano awk      
+awk {print} awk     
+mv awk awk.txt     
+clear       
+awk {print} awk.txt     
+awk {print $1} awk.txt    
+awk '{print $1}' awk.txt    
+cut awk.txt      
+cut -c awk.txt     
+cut -c 1 awk.txt    
+cut -c 2 awk.txt    
+cut -c 1-2 awk.txt    
+cut -c 1-3 awk.txt    
+awk '{print $1}' awk.txt    
+awk '{print $3}' awk.txt    
+awk '{print $1-3}' awk.txt    
+cat awk.txt      
+awk '{print $2}' awk.txt    
+awk '{print $1}' awk.txt    
+awk '{print $3}' awk.txt    
+awk '{print $2}' awk.txt    
+cat students.txt | awk '{print $1}'  
+cat students.txt | awk -F ',' '{print $6}'
+clear       
+cat students.txt | awk -F ',' '{print $1}'
+cat students.txt | awk -F ',' '{print $2}'
+man awk      
+cat students.txt | awk -F ',' '{print $2}'
+cat students.txt | awk -F ',' '{print $5}'
+cat students.txt | awk -F ',' '{print $5}'
+cat students.txt | awk -F ',' '{print $5}'
+cat students.txt | awk -F ',' '{print $6}'
+alias       
+cut students.txt      
+ca       
+man cut      
+cut -c 1-2 students.txt    
+cut -c 1-8 students.txt    
+cut -c 1-8-1 students.txt    
+cut -d ',' -f1,2 students.txt   
+cut -d ',' -f2,3 students.txt   
+man sed      
+clear       

@@ -1,0 +1,10 @@
+Fri 18 Dec 2020 22:31:30 +03
+     1	sudo ./while2.sh      
+     2	sudo ./while2.sh      
+Fri 18 Dec 2020 22:31:39 +03
+     1	sudo ./while2.sh      
+     2	sudo ./while2.sh      
+Fri 18 Dec 2020 22:33:45 +03
+Fri 18 Dec 2020 22:33:45 +03
+Fri 18 Dec 2020 22:34:20 +03
+Fri 18 Dec 2020 22:34:20 +03

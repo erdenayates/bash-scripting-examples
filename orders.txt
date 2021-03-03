@@ -1,0 +1,20 @@
+Trstram,China,CNY,tkeatch0@acquirethisname.com,Male,$5.00
+Leta,China,CNY,lcane1@sciencedirect.com,Female,$9.00
+Dacey,Indonesia,IDR,dblackburne2@studiopress.com,Female,$2.00
+Elinor,France,EUR,eoneill3@tripod.com,Female,$2.00
+Gill,Malaysia,MYR,gsurgenor4@google.com,Male,$6.00
+Ive,Portugal,EUR,itschursch5@springer.com,Male,$6.00
+Robbyn,China,CNY,rmeachem6@digg.com,Female,$1.00
+Corena,Vietnam,VND,cmarris7@mac.com,Female,$8.00
+Lorie,Armenia,AMD,lmanna8@parallels.com,Female,$3.00
+Ginni,Democratic Republic of the Congo,CDF,gmatelyunas9@umich.edu,Female,$3.00
+Clair,Portugal,EUR,cpoultera@free.fr,Female,$1.00
+Noach,China,CNY,npreeb@independent.co.uk,Male,$8.00
+Hope,China,CNY,hsmothc@livejournal.com,Female,$4.00
+Kellia,Philippines,PHP,kbaptistd@java.com,Female,$1.00
+Leonhard,China,CNY,lprestneye@cbslocal.com,Male,$3.00
+Sanford,China,CNY,sbartomieuf@geocities.com,Male,$4.00
+Natalya,Indonesia,IDR,nsimking@blinklist.com,Female,$9.00
+Ellery,Russia,RUB,ebaudreyh@deliciousdays.com,Male,$8.00
+Faun,Paraguay,PYG,fwalrondi@uiuc.edu,Female,$1.00
+Lemuel,Madagascar,MGA,lhopfnerj@constantcontact.com,Male,$2.00
